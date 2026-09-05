@@ -183,7 +183,7 @@ require_once __DIR__ . '/config.php';
             <!-- Counter 3 -->
             <div class="col-sm-6 col-md-3 col-lg-6 col-xl-3">
               <div class="counter-card">
-                <span class="counter-number" data-target="2">0</span>
+                <span class="counter-number" data-target="1">0</span>
                 <span class="counter-title">Kampus</span>
               </div>
             </div>
@@ -433,12 +433,12 @@ require_once __DIR__ . '/config.php';
           </div>
         </div>
 
-        <!-- Item 6: Campus 2 Building (Local Image) -->
+        <!-- Item 6: Campus 1 Building (Local Image) -->
         <div class="gallery-item" data-bs-toggle="modal" data-bs-target="#galleryLightbox" data-src="assets/img/hero/gedung2.jpg">
-          <img src="assets/img/hero/gedung2.jpg" alt="Gedung Kampus  DOS-Q 28">
+          <img src="assets/img/hero/gedung2.jpg" alt="Gedung Kampus 1 DOS-Q 28">
           <div class="gallery-overlay">
             <span class="gallery-tag">Gedung</span>
-            <h4 class="gallery-title">Gedung Kampus </h4>
+            <h4 class="gallery-title">Gedung Kampus 1</h4>
           </div>
         </div>
 
