@@ -38,7 +38,7 @@ require_once __DIR__ . '/config.php';
     <div class="container">
       <a class="navbar-brand" href="#beranda">
         <!-- Logo Sekolah -->
-        <img src="assets/img/logo.png" alt="Logo DOS-Q 28"
+        <img src="assets/img/logo.png" alt="Logo DOS-Q 28">
         <div class="brand-title-container">
           <span class="brand-name">DOS-Q 28</span>
           <span class="brand-sub">SMK Muhammadiyah 2 Kuningan</span>
@@ -304,7 +304,7 @@ require_once __DIR__ . '/config.php';
         <!-- Illustration/Image Column -->
         <div class="col-lg-6" data-aos="fade-left">
           <div class="about-img-wrapper">
-            <img src="assets/img/hero/foto_sekolah.jpeg" alt="Gedung SMK Muhammadiyah 2 Kuningan"
+            <img src="assets/img/hero/foto_sekolah.jpeg" alt="Gedung SMK Muhammadiyah 2 Kuningan">
           </div>
         </div>
       </div>
@@ -321,10 +321,10 @@ require_once __DIR__ . '/config.php';
 
       <div class="row g-4 justify-content-center">
         <!-- TKR -->
-        <div class="col-md-6 col-lg-4" data-aos="fade-up" data-aos-delay="100">
+        <div class="col-md-6 col-lg-4">
           <div class="premium-card jurusan-card">
             <div class="jurusan-icon-wrapper">
-              <img src="assets/img/jurusan/tkr.png" alt="Teknik Kendaraan Ringan Logo"> 
+              <img src="assets/img/jurusan/tkr.png" alt="Teknik Kendaraan Ringan Logo">
             </div>
             <h3 class="jurusan-title">Teknik Kendaraan Ringan</h3>
             <p class="jurusan-desc">Mempelajari perawatan dan perbaikan mesin, sistem transmisi, sasis, serta kelistrikan mobil dengan teknologi terkini standar bengkel resmi.</p>
@@ -332,7 +332,7 @@ require_once __DIR__ . '/config.php';
         </div>
 
         <!-- TSM -->
-        <div class="col-md-6 col-lg-4" data-aos="fade-up" data-aos-delay="200">
+        <div class="col-md-6 col-lg-4">
           <div class="premium-card jurusan-card">
             <div class="jurusan-icon-wrapper">
               <img src="assets/img/jurusan/tsm.png" alt="Teknik Sepeda Motor Logo">
@@ -343,7 +343,7 @@ require_once __DIR__ . '/config.php';
         </div>
 
         <!-- TJKT -->
-        <div class="col-md-6 col-lg-4" data-aos="fade-up" data-aos-delay="300">
+        <div class="col-md-6 col-lg-4">
           <div class="premium-card jurusan-card">
             <div class="jurusan-icon-wrapper">
               <img src="assets/img/jurusan/tjkt.png" alt="Teknik Jaringan Komputer dan Telekomunikasi Logo">
@@ -354,10 +354,10 @@ require_once __DIR__ . '/config.php';
         </div>
 
         <!-- Farmasi -->
-        <div class="col-md-6 col-lg-4 offset-lg-0 col-xl-4" data-aos="fade-up" data-aos-delay="400">
+        <div class="col-md-6 col-lg-4">
           <div class="premium-card jurusan-card">
             <div class="jurusan-icon-wrapper">
-              <img src="assets/img/jurusan/farmasi.png" alt="Farmasi Klinis dan Komunitas Logo" 
+              <img src="assets/img/jurusan/farmasi.png" alt="Farmasi Klinis dan Komunitas Logo">
             </div>
             <h3 class="jurusan-title">Farmasi Klinis dan Komunitas</h3>
             <p class="jurusan-desc">Mendidik asisten apoteker profesional untuk mengelola obat, melayani resep, serta menguasai dasar-dasar kefarmasian klinis di apotek atau rumah sakit.</p>
@@ -365,7 +365,7 @@ require_once __DIR__ . '/config.php';
         </div>
 
         <!-- RPL / PPLG -->
-        <div class="col-md-6 col-lg-4" data-aos="fade-up" data-aos-delay="500">
+        <div class="col-md-6 col-lg-4">
           <div class="premium-card jurusan-card">
             <div class="jurusan-icon-wrapper">
               <img src="assets/img/jurusan/rpl.png" alt="Pengembangan Perangkat Lunak dan Gim Logo">
@@ -390,7 +390,7 @@ require_once __DIR__ . '/config.php';
       <div class="gallery-grid" data-aos="fade-up">
         <!-- Item 1: Upacara Bendera (Local Image) -->
         <div class="gallery-item" data-bs-toggle="modal" data-bs-target="#galleryLightbox" data-src="assets/img/gallery/upacara.jpeg">
-          <img src="assets/img/gallery/upacara.jpeg" alt="Upacara Bendera DOS-Q 28"
+          <img src="assets/img/gallery/upacara.jpeg" alt="Upacara Bendera DOS-Q 28">
           <div class="gallery-overlay">
             <span class="gallery-tag">Upacara</span>
             <h4 class="gallery-title">Upacara Bendera Sekolah</h4>

@@ -550,6 +550,19 @@ p {
   clear: both;
 }
 
+/* --- Section Isolation Safeguards --- */
+#jurusan {
+  position: relative;
+  z-index: 2;
+  clear: both;
+}
+
+#galeri {
+  position: relative;
+  z-index: 1;
+  clear: both;
+}
+
 /* --- Premium Cards (General) --- */
 .premium-card {
   background: var(--white);
@@ -559,6 +572,7 @@ p {
   transition: var(--transition-smooth);
   overflow: hidden;
   height: 100%;
+  width: 100%;
 }
 
 .premium-card:hover {
@@ -614,6 +628,11 @@ p {
   padding: 35px 25px;
   position: relative;
   z-index: 1;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
 }
 
 .jurusan-card::before {
@@ -642,6 +661,7 @@ p {
   justify-content: center;
   margin-bottom: 25px;
   transition: var(--transition-smooth);
+  flex-shrink: 0;
 }
 
 .jurusan-icon-wrapper img {
@@ -665,11 +685,15 @@ p {
   font-weight: 700;
   color: var(--text-dark);
   margin-bottom: 12px;
+  overflow-wrap: break-word;
+  word-break: normal;
 }
 
 .jurusan-desc {
   font-size: 0.9rem;
   margin-bottom: 0;
+  overflow-wrap: break-word;
+  word-break: normal;
 }
 
 /* --- Galeri Section (Masonry) --- */
