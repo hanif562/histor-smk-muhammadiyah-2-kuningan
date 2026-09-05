@@ -1,0 +1,70 @@
+[Fri Jul 17 09:57:25 2026] PHP 8.1.10 Development Server (http://localhost:8080) started
+[Fri Jul 17 09:57:47 2026] [::1]:50684 Accepted
+[Fri Jul 17 09:57:47 2026] [::1]:50684 [200]: GET /
+[Fri Jul 17 09:57:47 2026] [::1]:50684 Closing
+[Fri Jul 17 09:57:47 2026] [::1]:65506 Accepted
+[Fri Jul 17 09:57:47 2026] [::1]:65506 [200]: GET /css/style.css
+[Fri Jul 17 09:57:47 2026] [::1]:65506 Closing
+[Fri Jul 17 09:57:47 2026] [::1]:49723 Accepted
+[Fri Jul 17 09:57:47 2026] [::1]:51684 Accepted
+[Fri Jul 17 09:57:47 2026] [::1]:49723 [200]: GET /assets/img/logo.png
+[Fri Jul 17 09:57:47 2026] [::1]:51684 [200]: GET /assets/img/hero/gedung2.jpg
+[Fri Jul 17 09:57:47 2026] [::1]:51684 Closing
+[Fri Jul 17 09:57:47 2026] [::1]:53351 Accepted
+[Fri Jul 17 09:57:47 2026] [::1]:49723 Closing
+[Fri Jul 17 09:57:47 2026] [::1]:53351 [200]: GET /js/script.js
+[Fri Jul 17 09:57:47 2026] [::1]:53351 Closing
+[Fri Jul 17 09:57:47 2026] [::1]:51582 Accepted
+[Fri Jul 17 09:57:47 2026] [::1]:51582 [200]: GET /assets/img/jurusan/tkr.png
+[Fri Jul 17 09:57:47 2026] [::1]:51582 Closing
+[Fri Jul 17 09:57:47 2026] [::1]:64002 Accepted
+[Fri Jul 17 09:57:47 2026] [::1]:54571 Accepted
+[Fri Jul 17 09:57:47 2026] [::1]:64002 [200]: GET /assets/img/jurusan/tsm.png
+[Fri Jul 17 09:57:47 2026] [::1]:54571 [200]: GET /assets/img/jurusan/tjkt.png
+[Fri Jul 17 09:57:47 2026] [::1]:64002 Closing
+[Fri Jul 17 09:57:47 2026] [::1]:54571 Closing
+[Fri Jul 17 09:57:47 2026] [::1]:58842 Accepted
+[Fri Jul 17 09:57:47 2026] [::1]:51978 Accepted
+[Fri Jul 17 09:57:47 2026] [::1]:58842 [200]: GET /assets/img/jurusan/farmasi.png
+[Fri Jul 17 09:57:47 2026] [::1]:51978 [200]: GET /assets/img/jurusan/rpl.png
+[Fri Jul 17 09:57:47 2026] [::1]:58842 Closing
+[Fri Jul 17 09:57:47 2026] [::1]:51978 Closing
+[Fri Jul 17 09:57:47 2026] [::1]:64224 Accepted
+[Fri Jul 17 09:57:47 2026] [::1]:64224 [200]: GET /assets/img/gallery/foto_laporan.jpg
+[Fri Jul 17 09:57:47 2026] [::1]:64224 Closing
+[Fri Jul 17 09:57:48 2026] [::1]:57983 Accepted
+[Fri Jul 17 09:57:48 2026] [::1]:57983 [200]: GET /assets/img/logo.png
+[Fri Jul 17 09:57:48 2026] [::1]:57983 Closing
+[Fri Jul 17 10:01:25 2026] [::1]:52301 Accepted
+[Fri Jul 17 10:01:25 2026] [::1]:52301 [200]: GET /
+[Fri Jul 17 10:01:25 2026] [::1]:52301 Closing
+[Fri Jul 17 10:01:25 2026] [::1]:52658 Accepted
+[Fri Jul 17 10:01:25 2026] [::1]:58019 Accepted
+[Fri Jul 17 10:01:25 2026] [::1]:52658 [200]: GET /css/style.css
+[Fri Jul 17 10:01:25 2026] [::1]:52658 Closing
+[Fri Jul 17 10:01:25 2026] [::1]:64112 Accepted
+[Fri Jul 17 10:01:25 2026] [::1]:58019 [200]: GET /assets/img/logo.png
+[Fri Jul 17 10:01:25 2026] [::1]:64112 [200]: GET /assets/img/hero/gedung2.jpg
+[Fri Jul 17 10:01:25 2026] [::1]:64112 Closing
+[Fri Jul 17 10:01:25 2026] [::1]:58019 Closing
+[Fri Jul 17 10:01:25 2026] [::1]:63352 Accepted
+[Fri Jul 17 10:01:25 2026] [::1]:62767 Accepted
+[Fri Jul 17 10:01:25 2026] [::1]:54875 Accepted
+[Fri Jul 17 10:01:25 2026] [::1]:64611 Accepted
+[Fri Jul 17 10:01:25 2026] [::1]:62216 Accepted
+[Fri Jul 17 10:01:25 2026] [::1]:63626 Accepted
+[Fri Jul 17 10:01:25 2026] [::1]:63352 [200]: GET /js/script.js
+[Fri Jul 17 10:01:25 2026] [::1]:62767 [200]: GET /assets/img/jurusan/tkr.png
+[Fri Jul 17 10:01:25 2026] [::1]:54875 [200]: GET /assets/img/jurusan/tsm.png
+[Fri Jul 17 10:01:25 2026] [::1]:64611 [200]: GET /assets/img/jurusan/tjkt.png
+[Fri Jul 17 10:01:25 2026] [::1]:63352 Closing
+[Fri Jul 17 10:01:25 2026] [::1]:62216 [200]: GET /assets/img/jurusan/farmasi.png
+[Fri Jul 17 10:01:25 2026] [::1]:63626 [200]: GET /assets/img/jurusan/rpl.png
+[Fri Jul 17 10:01:25 2026] [::1]:62767 Closing
+[Fri Jul 17 10:01:25 2026] [::1]:54875 Closing
+[Fri Jul 17 10:01:25 2026] [::1]:64611 Closing
+[Fri Jul 17 10:01:25 2026] [::1]:62216 Closing
+[Fri Jul 17 10:01:25 2026] [::1]:52488 Accepted
+[Fri Jul 17 10:01:25 2026] [::1]:52488 [200]: GET /assets/img/gallery/foto_laporan.jpg
+[Fri Jul 17 10:01:25 2026] [::1]:52488 Closing
+[Fri Jul 17 10:01:25 2026] [::1]:63626 Closing

@@ -1,0 +1,16 @@
+# Environment Files (Mengamankan Rahasia & Kredensial)
+.env
+.env.local
+.env.*.local
+*.log
+
+# Operating System & IDE Files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Node & Composer dependencies (jika ada di masa depan)
+node_modules/
+vendor/
